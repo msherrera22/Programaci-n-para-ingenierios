@@ -22,7 +22,7 @@ C. TypeError
 D. CompilationError
 E. Ninguna de Las Anteriores
 F. Una salida vacía
-ANSWER: D
+ANSWER: F
 
 Cual sera la siguiente salida en python. type(int(float('0.2')))
 A. CompilationError
@@ -30,7 +30,7 @@ B. TypeError
 C. <class 'int'>
 D. Ninguna de las anteriores
 E. Salida vacia
-ANSWER: A
+ANSWER: C
 
 Cuale es el error en la siguiente linea de codigo. 
 print(#hola# "Estamos imprimiendo")
@@ -46,14 +46,14 @@ A. Si, esto es permitido
 B. No, dara error
 C. Mejor por separado para tener entero y cadena
 D. Python no permite este tipo de asignaciones
-ANSWER: C
+ANSWER: A
 
 Compilara esta linea en python? a = 1;
 A. Python no permite este tipo de asignaciones
 B. No, dara error
 C. Mejor por separado para tener entero y caracter
 D. Si, esto es permitido
-ANSWER: B
+ANSWER: A
 
 Ejecuto un programa llamado 'programa_x2.py' en python en la terminal de anaconda de la siguiente manera: python programa_x2.py
 A. Cierto
@@ -68,4 +68,4 @@ ANSWER: Falso
 El token '=' es el de comparacion de variables y constantes.
 A. Cierto
 B. Falso
-ANSWER: cierto
+ANSWER: Falso
